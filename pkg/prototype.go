@@ -9,7 +9,7 @@ import (
 func main() {
 	fmt.Println("Portshield V2")
 	var i int
-	fmt.Print("Enter port number : ")
+	// fmt.Print("Enter port number : ")
 	fmt.Scan(&i)
 
 	//
